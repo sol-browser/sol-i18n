@@ -4,7 +4,9 @@ Interface translations for the [Sol browser](https://github.com/sol-browser/sol)
 
 ## Contributing
 
-The community translation editor will be hosted on Weblate. Its project link will appear here when the editor is available. Translators will be able to suggest wording and vote on suggestions in the editor. The planned workflow accepts a suggestion after two votes and uses community review.
+[![Help translate Sol](https://img.shields.io/badge/Help_translate_Sol-167D6D?style=for-the-badge&logo=weblate&logoColor=white)](https://translate.sol-browser.app/engage/sol-browser/)
+
+Choose your language in Weblate, enter your translation, and click **Suggest**. Guests can submit suggestions. Signed-in contributors can vote, and Weblate accepts a suggestion after two votes.
 
 Use the [glossary](GLOSSARY.md) to keep browser terms consistent. Keep ICU placeholders such as `{name}` and `{count}` and use the plural forms appropriate for your language. A missing translation falls back to English in Sol. Message IDs remain stable when wording changes.
 
