@@ -1,0 +1,11 @@
+{
+  "name": "sol-i18n",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test validate.test.mjs"
+  },
+  "devDependencies": {
+    "@formatjs/icu-messageformat-parser": "3.5.23"
+  }
+}
